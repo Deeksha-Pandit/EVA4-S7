@@ -6,9 +6,9 @@ Total Epochs = 50
 
 Total Parameters = 779,192
 
-Achived Target in 26th Epoch (80%)
+Achived Target in 42nd Epoch (80%)
 
-Best test Accuaracy: 79.74
+Best test Accuaracy: 80.10
 
 
 <h2>Files</h2>
